@@ -1,0 +1,23 @@
+{
+  "name": "experise-task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.3",
+    "got": "^10.4.0",
+    "ipdata": "^2.2.0",
+    "node-geocoder": "^3.27.0",
+    "prompt-sync": "^4.2.0",
+    "read-excel-file": "^5.0.0",
+    "unirest": "^0.6.0",
+    "uuid": "^8.3.2",
+    "xlsx": "^0.16.9"
+  }
+}
